@@ -1,4 +1,13 @@
-### Hi there 👋
+Currently working towards a master's degree in Computer Science at TU Dresden, Germany.
+
+#### Nix-related stuff
+- [nixos](https://github.com/lwndhrst/nixos)
+- [home-manager](https://github.com/lwndhrst/home-manager)
+- [custom-nixpkgs](https://github.com/lwndhrst/custom-nixpkgs)
+
+#### Dotfiles
+- [awesome](https://github.com/lwndhrst/awesome)
+- [nvim](https://github.com/lwndhrst/nvim)
 
 <!--
 **lwndhrst/lwndhrst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
