@@ -1,6 +1,6 @@
 Currently working towards a master's degree in Computer Science at TU Dresden, Germany.
 
-#### Nix-related stuff
+#### Nix-related
 - [nixos](https://github.com/lwndhrst/nixos)
 - [home-manager](https://github.com/lwndhrst/home-manager)
 - [custom-nixpkgs](https://github.com/lwndhrst/custom-nixpkgs)
