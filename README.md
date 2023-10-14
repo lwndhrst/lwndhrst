@@ -1,4 +1,4 @@
-Currently working towards a master's degree in Computer Science at TU Dresden, Germany.
+Currently working towards a master's degree in Media Computer Science at TU Dresden, Germany.
 
 #### Nix-related
 - [nixos-config](https://github.com/lwndhrst/nixos-config)
