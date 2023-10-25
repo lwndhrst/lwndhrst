@@ -2,7 +2,6 @@ Currently working towards a master's degree in Media Computer Science at TU Dres
 
 #### Nix-related
 - [nixos-config](https://github.com/lwndhrst/nixos-config)
-- [home-manager-config](https://github.com/lwndhrst/home-manager-config)
 - [custom-nixpkgs](https://github.com/lwndhrst/custom-nixpkgs)
 
 #### Dotfiles
