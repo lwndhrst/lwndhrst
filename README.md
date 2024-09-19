@@ -1,6 +1,6 @@
 Currently working towards a master's degree in Media Computer Science at TU Dresden, Germany.
 
-#### Nix-related
+#### Nix
 - [nixos-config](https://github.com/lwndhrst/nixos-config)
 - [custom-nixpkgs](https://github.com/lwndhrst/custom-nixpkgs)
 
