@@ -1,13 +1,5 @@
 Currently working towards a master's degree in Media Computer Science at TU Dresden, Germany.
 
-#### Nix
-- [nixos-config](https://github.com/lwndhrst/nixos-config)
-- [custom-nixpkgs](https://github.com/lwndhrst/custom-nixpkgs)
-
-#### Dotfiles
-- [awesome](https://github.com/lwndhrst/dotfiles-awesome)
-- [nvim](https://github.com/lwndhrst/dotfiles-nvim)
-
 <!--
 **lwndhrst/lwndhrst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
