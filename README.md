@@ -1,3 +1,5 @@
+Interested in computer graphics and video games.
+
 <!--
 **lwndhrst/lwndhrst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
