@@ -1,5 +1,3 @@
-Currently working towards a master's degree in Media Computer Science at TU Dresden, Germany.
-
 <!--
 **lwndhrst/lwndhrst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
